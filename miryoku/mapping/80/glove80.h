@@ -15,7 +15,7 @@ XXX  XXX  XXX  XXX  XXX                                               XXX  XXX  
 XXX  XXX  XXX  XXX  XXX  XXX                                     XXX  XXX  XXX  XXX  XXX  XXX \
 XXX  K00  K01  K02  K03  K04                                     K05  K06  K07  K08  K09  XXX \
 XXX  K10  K11  K12  K13  K14                                     K15  K16  K17  K18  K19  XXX \
-XXX  K20  K21  K22  K23  K24  &kp LBKT  &kp LBRC  &kp LPAR &kp RPAR  &kp RBRC  &kp RBKT  K25  K26  K27  K28  K29  XXX \
+XXX  K20  K21  K22  K23  K24  &kp LPAR  &kp LBRC &kp LBKT &kp RBKT &kp RBRC  &kp RPAR K25  K26  K27  K28  K29  XXX \
 XXX  XXX  XXX  XXX  XXX       K33 K34 K32         K37  K35  K36       XXX  XXX  XXX  XXX  XXX
 
 #endif
